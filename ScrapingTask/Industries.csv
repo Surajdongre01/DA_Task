@@ -1,0 +1,128 @@
+industryid,industryname,sectorid
+1,Oil & Gas Refining & Marketing,7
+2,Data Processing & Outsourced Services,8
+3,Packaged Foods & Meats,5
+4,Health Care Services,1
+5,Cargo Ground Transportation,8
+6,Automotive Parts & Equipment,9
+7,Technology Distributors,3
+8,Distributors,9
+9,Home Improvement Retail,9
+10,Automobile Manufacturers,9
+11,Regional Banks,2
+12,Communications Equipment,3
+13,Automotive Retail,9
+14,Electronic Manufacturing Services,3
+15,Distillers & Vintners,5
+16,Computer & Electronics Retail,9
+17,Investment Banking & Brokerage,2
+18,Casinos & Gaming,9
+19,Diversified Support Services,8
+20,Personal Care Products,5
+21,Electronic Equipment & Instruments,3
+22,Multi-line Insurance,2
+23,Oil & Gas Exploration & Production,7
+24,Food Retail,5
+25,Trading Companies & Distributors,8
+26,Leisure Products,9
+27,"Apparel, Accessories & Luxury Goods",9
+28,Integrated Telecommunication Services,11
+29,Health Care REITs,4
+30,Data Center REITs,4
+31,Industrial Conglomerates,8
+32,Restaurants,9
+33,Fertilizers & Agricultural Chemicals,6
+34,Specialty Chemicals,6
+35,Life & Health Insurance,2
+36,Systems Software,3
+37,Paper & Plastic Packaging Products & Materials,6
+38,Asset Management & Custody Banks,2
+39,Research & Consulting Services,8
+40,Health Care Facilities,1
+41,Diversified Banks,2
+42,Interactive Home Entertainment,11
+43,Steel,6
+44,Insurance Brokers,2
+45,Aerospace & Defense,8
+46,Retail REITs,4
+47,Transaction & Payment Processing Services,2
+48,Homebuilding,9
+49,Health Care Distributors,1
+50,Apparel Retail,9
+51,Environmental & Facilities Services,8
+52,Self-Storage REITs,4
+53,Brewers,5
+54,Multi-Utilities,10
+55,Building Products,8
+56,Multi-Family Residential REITs,4
+57,Industrial Gases,6
+58,Electrical Components & Equipment,8
+59,Passenger Airlines,8
+60,IT Consulting & Other Services,3
+61,Home Furnishings,9
+62,Publishing,11
+63,Telecom Tower REITs,4
+64,Semiconductors,3
+65,Industrial Machinery & Supplies & Components,8
+66,Pharmaceuticals,1
+67,Broadline Retail,9
+68,"Hotels, Resorts & Cruise Lines",9
+69,Timber REITs,4
+70,Agricultural Products & Services,5
+71,Food Distributors,5
+72,Life Sciences Tools & Services,1
+73,Electronic Components,3
+74,Passenger Ground Transportation,8
+75,Commodity Chemicals,6
+76,Financial Exchanges & Data,2
+77,Air Freight & Logistics,8
+78,Managed Health Care,1
+79,Health Care Supplies,1
+80,Wireless Telecommunication Services,11
+81,Rail Transportation,8
+82,Advertising,11
+83,Application Software,3
+84,Semiconductor Materials & Equipment,3
+85,"Metal, Glass & Plastic Containers",6
+86,Footwear,9
+87,Health Care Equipment,1
+88,Construction & Engineering,8
+89,Gold,6
+90,Heavy Electrical Equipment,8
+91,Multi-Sector Holdings,2
+92,Real Estate Services,4
+93,Internet Services & Infrastructure,3
+94,Construction Materials,6
+95,Soft Drinks & Non-alcoholic Beverages,5
+96,Oil & Gas Equipment & Services,7
+97,Single-Family Residential REITs,4
+98,Construction Machinery & Heavy Transportation Equipment,8
+99,Movies & Entertainment,11
+100,Other Specialized REITs,4
+101,Integrated Oil & Gas,7
+102,Water Utilities,10
+103,Oil & Gas Storage & Transportation,7
+104,Biotechnology,1
+105,Independent Power Producers & Energy Traders,10
+106,Cable & Satellite,11
+107,Agricultural & Farm Machinery,8
+108,Human Resource & Employment Services,8
+109,Office REITs,4
+110,Interactive Media & Services,11
+111,Tobacco,5
+112,Broadcasting,11
+113,"Technology Hardware, Storage & Peripherals",3
+114,Reinsurance,2
+115,Industrial REITs,4
+116,Household Products,5
+117,Property & Casualty Insurance,2
+118,Gas Utilities,10
+119,Hotel & Resort REITs,4
+120,Consumer Finance,2
+121,Consumer Staples Merchandise Retail,5
+122,Consumer Electronics,9
+123,Other Specialty Retail,9
+124,Drug Retail,5
+125,Electric Utilities,10
+126,Health Care Technology,1
+127,Copper,6
